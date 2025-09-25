@@ -1,5 +1,3 @@
-# Cord-19-frameworks-assignment-
-
 # CORD-19 Data Explorer
 
 This project analyzes the **CORD-19 metadata dataset** using Python frameworks (Pandas, Matplotlib, Seaborn, Streamlit).
